@@ -35,7 +35,7 @@ const MiddelHeaderSec = () => {
             to={"/"}
             className="text-3xl font-extrabold tracking-wider"
           >
-            <span>Nextshop</span>
+            <span>ECOMSHOP</span>
             <span className="text-warning">.</span>
           </Link>
         </div>
