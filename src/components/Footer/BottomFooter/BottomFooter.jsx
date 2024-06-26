@@ -17,12 +17,12 @@ const BottomFooter = () => {
               </a>{" "}
               Powered by{" "}
               <a
-                href="https://mofizulislam.risosi.com"
+                href="https://www.tmt-soft.com/"
                 target="_blank"
                 rel="noreferrer"
                 className="no-underline hover:underline hover:text-tertiary"
               >
-                Sohan
+                TMT Soft
               </a>
             </p>
           </div>
